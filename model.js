@@ -48,3 +48,5 @@ subject.sync({ alter: true }).then(result => {
 }).catch(err => {
     console.log(err)
 });
+
+//kia haal hai?
