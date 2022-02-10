@@ -1,0 +1,10 @@
+{
+    "development": {
+        "username": "sa",
+        "password": "syedbilal@12345",
+        "database": "Teacher",
+        "host": "127.0.0.1",
+        "dialect": "mssql",
+        "seederStorage": "sequelize"
+    }
+}
